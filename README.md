@@ -1,6 +1,7 @@
 # TVBox
 TVBox  overall
 全版本介绍：https://zhuanlan.zhihu.com/p/608959171
+下载链接 夸克网盘： https://pan.quark.cn/s/cf81a27a7439  （更新日期：2023.8.17）
 3个版本的区分：
 1. 纯净版q215613905：俊版，简洁版本 
 2. 美化版takagen99：下载地址，https://github.com/o0HalfLife0o/TVBoxOSC/releases，出处：takagen99
