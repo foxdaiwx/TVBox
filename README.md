@@ -35,10 +35,10 @@ b. 欧歌/装歌单线多源，装B地址URL：<https://xn--e5x6c.v.nxog.top/api
 9) 少儿教育： https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer
 
 ## 2.直播接口源
-1) 榴莲电视：Http://106.53.99.30/2025.txt，永久免费接口，影视仓 和 OK影视，都适用；  
-2) 冰茶体育：https://bc.188766.xyz/?url=https://live.188766.xyz&mishitong=true&mima=bingchawusifengxian&haiwai=true  （密码更新"冰茶无私奉献"，OK影视专用，影视仓 能导入但是无效）,（TG冰茶群或频道关注后，从群中获取冰茶体育密码和直播源链接），包括咪咕 咪视通 冰茶体育；区分冰茶普通链接和冰茶体育专用链接，差异为是否带“haiwai=true”，目前导入后两者无差异；  
-3) Develop202：https://gh.llkk.cc/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt ，咪咕，此处使用了代理；  
-4) 装歌：从装歌原始单线多远接口源 http://tv.nxog.top/m/ 中，动态更新，获取后警察时效，不如直接适用 原始点播接口源而由其自动更新直播源；
+1) 榴莲电视：<http://106.53.99.30/2025.txt>，永久免费接口，影视仓 和 OK影视，都适用；  
+2) 冰茶体育：<https://bc.188766.xyz/?url=https://live.188766.xyz&mishitong=true&mima=bingchawusifengxian&haiwai=true>  （密码更新"冰茶无私奉献"，OK影视专用，影视仓 能导入但是无效）,（TG冰茶群或频道关注后，从群中获取冰茶体育密码和直播源链接），包括咪咕 咪视通 冰茶体育；区分冰茶普通链接和冰茶体育专用链接，差异为是否带“haiwai=true”，目前导入后两者无差异；  
+3) Develop202：<https://gh.llkk.cc/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt> ，咪咕，此处使用了代理；  
+4) 装歌：从装歌原始单线多远接口源 <http://tv.nxog.top/m/> 中，动态更新，获取后警察时效，不如直接适用 原始点播接口源而由其自动更新直播源；
 
 # 一、TVBox
 1. 全版本介绍：
