@@ -1,3 +1,5 @@
+# **所有资源均来自于各路大神无私分享，仅用于个人学习使用，严禁商用，如有侵权请联系删除。**   
+
 # Content
 1. TVBOX
 2. 接口源：点播接口源（多仓、单仓、单线）、直播接口源
@@ -39,6 +41,11 @@ b. 欧歌/装歌单线多源，装B地址URL：<https://xn--e5x6c.v.nxog.top/api
 2) 冰茶体育：<https://bc.188766.xyz/?url=https://live.188766.xyz&mishitong=true&mima=bingchawusifengxian&haiwai=true>  （密码更新"冰茶无私奉献"，OK影视专用，影视仓 能导入但是无效）,（TG冰茶群或频道关注后，从群中获取冰茶体育密码和直播源链接），包括咪咕 咪视通 冰茶体育；区分冰茶普通链接和冰茶体育专用链接，差异为是否带“haiwai=true”，目前导入后两者无差异；  
 3) Develop202：<https://gh.llkk.cc/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt> ，咪咕，此处使用了代理；  
 4) 装歌：从装歌原始单线多远接口源 <http://tv.nxog.top/m/> 中，动态更新，获取后经常失效，不如直接适用 原始点播接口源而由其自动更新直播源；
+
+## 3.影视壳和app、魔改、接口源、资源
+1) 核心仓库，<https://github.com/CatVodTVOfficial/TVBoxOSC>, 失效；备选<https://github.com/lizhe0326/tvbox>
+2) 影视仓接口源：<https://github.com/noimank/tvbox>，APK下载集合<https://github.com/youhunwl/TVAPP>，自用tvbox源分享，影视仓多仓源分享，tvbox相关资源记录：
+3) APK下载集合：<https://github.com/youhunwl/TVAPP>, 收集全网 Android TV电视盒子应用，涵盖影视、直播、K歌、工具、游戏等类型，整理优质APK资源，支持便捷下载与自动更新。提供安全验证、分类索引与兼容性标注，助力用户打造家庭影音娱乐中心！ ✅ TVBox/影视仓等影音壳接口配置源
 
 # 一、TVBox
 1. 全版本介绍：
