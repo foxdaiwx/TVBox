@@ -1,5 +1,9 @@
-# 2025.11.11 点播接口源（大部分内含直播接口源，但需测试期有效性）
-## 1. 接口源：
+# Content
+1. TVBOX
+2. 接口源：点播接口源（多仓、单仓、单线）、直播接口源
+
+# 二、接口源（2025.11.11大部分内含直播接口源，但需测试期有效性）
+## 1. 点播接口源：
    讴歌 或 欧歌，原始接口源：http://tv.nxog.top/m/ （单仓多线，含直播源），官网：https://欧.我爱你（中文域名） 或 https://xn--dkw.xn--6qq986b3xl/（中文域名对应的Punycode编码格式的ASCII码域名），包含 多仓、单仓多线路、单线路，且其接口源动态更新；内含多个工具；公众号：装歌APP，小程序：装歌API。缺点就是要看视频广告 和 不提供接口源最原始地址的链接。
 ### 🌹多仓
 💃欧歌API：通过其接口自动链接到指定的线路（如肥猫、饭太硬、王二小放牛娃等，线路中有多个源，并可以装B个性化修改域名名字，比如“狐狸”），下文中“狐狸”为自定义的名字，
@@ -37,7 +41,7 @@ b.欧歌/装歌单线多源，装B地址URL：https://xn--e5x6c.v.nxog.top/apib?
 3) Develop202：https://gh.llkk.cc/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt ，咪咕，此处使用了代理；
 4) 装歌：从装歌原始单线多远接口源 http://tv.nxog.top/m/ 中，动态更新，获取后警察时效，不如直接适用 原始点播接口源而由其自动更新直播源；
 
-# TVBox
+# 一、TVBox
 ![image](https://github.com/foxdaiwx/TVBox/assets/40625691/548f5688-e31b-41fc-8d5e-df038a7c1048)
 1. 全版本介绍：
 （1）https://zhuanlan.zhihu.com/p/608959171 
