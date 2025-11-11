@@ -1,6 +1,7 @@
-#2025.11.11 点播接口源（大部分内含直播接口源，但需测试其有效性），直播接口源
-1. 接口源：讴歌 或 欧歌，原始接口源：http://tv.nxog.top/m/ （单仓多线，含直播源），官网：https://欧.我爱你（中文域名） 或 https://xn--dkw.xn--6qq986b3xl/（中文域名对应的Punycode编码格式的ASCII码域名），包含 多仓、单仓多线路、单线路，且其接口源动态更新；内含多个工具；公众号：装歌APP，小程序：装歌API。缺点就是要看视频广告 和 不提供接口源最原始地址的链接。
-🌹多仓
+# 2025.11.11 点播接口源（大部分内含直播接口源，但需测试其有效性），直播接口源
+## 1. 接口源：
+   讴歌 或 欧歌，原始接口源：http://tv.nxog.top/m/ （单仓多线，含直播源），官网：https://欧.我爱你（中文域名） 或 https://xn--dkw.xn--6qq986b3xl/（中文域名对应的Punycode编码格式的ASCII码域名），包含 多仓、单仓多线路、单线路，且其接口源动态更新；内含多个工具；公众号：装歌APP，小程序：装歌API。缺点就是要看视频广告 和 不提供接口源最原始地址的链接。
+### 🌹多仓
 💃欧歌API：通过其接口自动链接到指定的线路（如肥猫、饭太硬、王二小放牛娃等，线路中有多个源，并可以装B个性化修改域名名字，比如“狐狸”），下文中“狐狸”为自定义的名字，
 a.欧歌多仓，狐狸多仓，https://xn--e5x6c.v.nxog.top/apia?id=1，狐狸=e5x6c，字母a，序号1，（PunyCode编码，中文域名 转 ASCII码域名），
 b.欧歌单仓，狐狸单仓，https://xn--e5x6c.v.nxog.top/apia?id=2，注意序号2，api后面的字母为a，
@@ -11,11 +12,11 @@ d.装歌线路1~装歌线路6,1=v、2=y、3=u、4=h、5=e、6=u，字母连起�
 【序号与线路对应表】，常用id：1=饭太硬、4=肥猫、8=王二小、10=毒盒、17=巧技；
 1=饭太硬，2=光哥云盘，3=盒子迷，4=肥猫，5=潇洒改版，6=PG，7=小米，8=王二小，9=花生，10=毒盒（直播源多），11=OK，12=多多改版，13=短剧，14=老虎，15=真心，16=莱妮丝，17=巧技，18=驸马，19=VOX，20=南风，21=杰哥学习，22=网络收集不分排名；
 
-🌹单仓多线
+### 🌹单仓多线
 a.欧歌单仓多线（狐狸）：https://xn--e5x6c.v.nxog.top/apia?id=2，（注意序号2,见前述）
 b.茄子库：https://700sjro44343.vicp.fun/eggp/qzku/tv.json
 
-🌹单线路（下翻，见多个大佬的列表及对应的链接URL）
+### 🌹单线路（下翻，见多个大佬的列表及对应的链接URL）
 a.欧歌/装歌单线多源，原始地址：http://tv.nxog.top/m/，内含直播；
 b.欧歌/装歌单线多源，装B地址URL：https://xn--e5x6c.v.nxog.top/apib?id=1， 饭太硬（注意api后跟字母b，序号线路对应表，狐狸=e5x6c，不支持比如🦊图标）。
 
@@ -30,7 +31,7 @@ b.欧歌/装歌单线多源，装B地址URL：https://xn--e5x6c.v.nxog.top/apib?
 8) JJZX含18禁：https://objectstorage.ap-melbourne-1.oraclecloud.com/n/axvdhhe2hcmn/b/tv-bucket-20250804-1124/o/jjzx.json
 9) 少儿教育： https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer
 
-2.直播接口源
+## 2.直播接口源
 1) 榴莲电视：Http://106.53.99.30/2025.txt，永久免费接口，影视仓 和 OK影视，都适用；
 2) 冰茶体育：https://bc.188766.xyz/?url=https://live.188766.xyz&mishitong=true&mima=bingchawusifengxian&haiwai=true  （密码更新"冰茶无私奉献"，OK影视专用，影视仓 能导入但是无效）,（TG冰茶群或频道关注后，从群中获取冰茶体育密码和直播源链接），包括咪咕 咪视通 冰茶体育；区分冰茶普通链接和冰茶体育专用链接，差异为是否带“haiwai=true”，目前导入后两者无差异；
 3) Develop202：https://gh.llkk.cc/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt ，咪咕，此处使用了代理；
