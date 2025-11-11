@@ -42,7 +42,6 @@ b.欧歌/装歌单线多源，装B地址URL：https://xn--e5x6c.v.nxog.top/apib?
 4) 装歌：从装歌原始单线多远接口源 http://tv.nxog.top/m/ 中，动态更新，获取后警察时效，不如直接适用 原始点播接口源而由其自动更新直播源；
 
 # 一、TVBox
-![image](https://github.com/foxdaiwx/TVBox/assets/40625691/548f5688-e31b-41fc-8d5e-df038a7c1048)
 1. 全版本介绍：
 （1）https://zhuanlan.zhihu.com/p/608959171 
 （2）https://github.com/pymond/tvbox/blob/main/README.md
