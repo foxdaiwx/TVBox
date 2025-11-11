@@ -20,8 +20,8 @@ a. [欧歌单仓多线（狐狸）]<https://xn--e5x6c.v.nxog.top/apia?id=2>，�
 b. [茄子库]<https://700sjro44343.vicp.fun/eggp/qzku/tv.json>
 
 ### 🌹单线路（下翻，见多个大佬的列表及对应的链接URL）
-a. 欧歌/装歌单线多源，原始地址：http://tv.nxog.top/m/，内含直播；  
-b. 欧歌/装歌单线多源，装B地址URL：https://xn--e5x6c.v.nxog.top/apib?id=1， 饭太硬（注意api后跟字母b，序号线路对应表，狐狸=e5x6c，不支持比如🦊图标）。
+a. 欧歌/装歌单线多源，原始地址：<http://tv.nxog.top/m/>，内含直播；  
+b. 欧歌/装歌单线多源，装B地址URL：<https://xn--e5x6c.v.nxog.top/apib?id=1>， 饭太硬（注意api后跟字母b，序号线路对应表，狐狸=e5x6c，不支持比如🦊图标）。
 
 🌹以下为不包含在装歌API清单中，序号也不是欧歌的ID：
 1) 骚零：https://100km.top/0  （❌）
