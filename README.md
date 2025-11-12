@@ -17,7 +17,11 @@
 4. **播放器**：小猫影视（全平台） 
 5. **直播**：我的电视、酷9直播、HTV直播、电视家、全网通电视、宽带直播、.....太多了，待验证；  
 6. **第三方app**：
-   - BBLL=BiliBili的第三方终端，<https://github.com/xiaye13579/BBLL>, <https://github.com/swyefun/BBLLV5>
+   - BiLiBiLi的第三方应用，提高分辨率 解决鉴权问题：
+       - BBLL，<https://github.com/xiaye13579/BBLL>, <https://github.com/swyefun/BBLLV5>，- bbll个修版：xiaye13579老哥的修改版，没用过，猜测应该同样继承了bbll原版的频繁鉴权失效的问题;  
+       - PiliPlus：<https://github.com/bggRGjQaUbCoE/PiliPlus>,虽然已经停止维护了，但目前使用体验仍然是最好的，功能丰富，不是专为TV端打造，所以有些操作需要用到鼠标（如登陆），个人体感基本没有遇到过鉴权问题;  
+       - bv个修版：<https://github.com/Frost819/bv>, Bug Video面向TV端的修改版，在我的垃圾投影仪上有点小卡顿，个人体感基本没有遇到过鉴权问题;   
+       - bilitv：<https://github.com/kkkunny/bilitv>,小引个流，自己做的app，刚开始迭代，代码开源;   
 
 # 二、🚗🚗接口源（2025.11.11大部分内含直播接口源，但需测试期有效性）
 ## 1. 点播接口源：
