@@ -1,48 +1,25 @@
 **所有资源均来自于各路大神无私分享，仅用于个人学习使用，严禁商用，如有侵权请联系删除。**
 
 # Content
-1. TVBOX
-2. 接口源：点播接口源（多仓、单仓、单线）、直播接口源
-3. TVBOX壳及魔改app（仅本人使用及市场常用和好用的）
-4. Github加速网站
-   
-# 四、Github加速代理网站
-1、镜像站与直链加速  
-• <https://github.hscsec.cn/>：将 github.com 替换为该域名后可浏览与下载，适合临时访问受限或加速浏览;  
-• <https://githubfast.com/>：同构镜像，用法同上，替换域名即可;  
-• <https://kkgithub.com/>：镜像站，适合浏览与直链下载;  
-• <https://521github.com/>：镜像站，适合浏览与直链下载;  
-• <https://gitclone.com/>：支持“加速 clone”，见下文用法;  
- 使用要点：在原 GitHub 链接中将域名部分替换为上述镜像域名，路径保持不变；部分站点可能不支持登录或个别功能受限。限使用Git.  
+一. TVBOX壳及魔改app（仅本人使用及市场常用和好用的）
+二. 接口源：点播接口源（多仓、单仓、单线）、直播接口源
+三. TVBOX
+四. Github加速网站
 
-2、Git 克隆与下载加速  
-• GitClone 代理克隆：将仓库地址前缀替换为 <https://gitclone.com/github.com/> 后执行克隆；首次代理克隆后会异步缓存，后续速度更快，适合 git clone 场景。  
-  示例：<git clone https://gitclone.com/github.com/OWNER/REPO.git>  
-• GitHub 文件/Release 加速（压缩包直下）：使用 Cloudflare Workers 反代，  
-   示例服务：<https://gh.api.99988866.xyz>、<https://g.ioiox.com>。  
-   用法：将浏览器地址栏或下载工具中的github.com 链接替换为对应反代域名即可加速 Release/Archive/项目文件 下载。  
 
-3、Hosts 与静态资源加速
-• 动态更新 Hosts：  
-   <https://hosts.gitcdn.top/>（Fetch GitHub Hosts）    
-   <https://gitlab.com/ineo6/hosts/-/raw/master/hosts>    
-  将解析结果追加到本机 hosts 文件，可改善 github.com 与相关域名的连通性与速度。  
-• Raw 文件加速：将 <raw.githubusercontent.com> 替换为 <raw.staticdn.net>，可加速 Raw 文件访问（适合 Markdown 中的图片、文档等）。  
-• Jsdelivr CDN：适合加速 GitHub Releases 与 项目静态资源（如 JS/CSS/图片）；注意通常不提供 Release 附加的 .exe/.dmg 等二进制直链下载。   
-
-4、使用建议与注意事项  
-• 镜像与登录限制：部分镜像站仅支持浏览/下载，无法登录 GitHub 账号（如 <hub.fastgit.org>），涉及 PR/Issue/Gist 等操作请直接使用官方站点或 Git 操作。  
-• 安全性：优先使用 HTTPS；第三方镜像与反代服务可能随时变更或下线，谨慎提交账号口令与 Token，必要时使用一次性 Token 或短期凭证。  
-• 稳定性：若镜像访问异常，优先切换至其他镜像或改用 Hosts/代理/GitHub CLI 等方式；下载类需求可优先用 GitClone/Release 反代。  
-
-# 三、TVBOX壳及魔改app
+# 一、🚗🚗TVBOX壳及魔改app
 1. **TVBOX** 原版、白壳、黑壳  
-2. **TVBOX壳**：影视仓，公众号=派大星开发；OK影视（OK影视Pro 带弹幕功能）：公众号=OK猫开发；（其他：Fongmi影视（蜂蜜影视）、天光云影、）；    
+2. **TVBOX壳**：
+   - 影视仓，公众号=派大星开发；
+   - OK影视（OK影视Pro 带弹幕功能）：公众号=OK猫开发；
+   - 521影视 <https://github.com/CatVodTVOfficial>(❌)、<https://github.com/FongMi>,（其他：Fongmi影视（蜂蜜影视）、天光云影、）；    
 3. **带源TVBOX app**：小苹果影视；欧歌影视；月光宝盒（Box、Max、Plus）...；  
-4. **播放器**：小猫影视（全平台）；  
+4. **播放器**：小猫影视（全平台） 
 5. **直播**：我的电视、酷9直播、HTV直播、电视家、全网通电视、宽带直播、.....太多了，待验证；  
+6. **第三方app**：
+   - BBLL=BiliBili的第三方终端，<https://github.com/xiaye13579/BBLL> <https://github.com/swyefun/BBLLV5>
 
-# 二、接口源（2025.11.11大部分内含直播接口源，但需测试期有效性）
+# 二、🚗🚗接口源（2025.11.11大部分内含直播接口源，但需测试期有效性）
 ## 1. 点播接口源：
    讴歌 或 欧歌，原始接口源：http://tv.nxog.top/m/ （单仓多线，含直播源），官网：https://欧.我爱你 （中文域名） 或 https://xn--dkw.xn--6qq986b3xl/ （中文域名对应的Punycode编码格式的ASCII码域名），包含 多仓、单仓多线路、单线路，且其接口源动态更新；内含多个工具；公众号：装歌APP，小程序：装歌API。缺点就是要看视频广告 和 不提供接口源最原始地址的链接。
 ### 🌹多仓
@@ -85,7 +62,7 @@ b. 欧歌/装歌单线多源，装B地址URL：<https://xn--e5x6c.v.nxog.top/api
 2) 影视仓接口源：<https://github.com/noimank/tvbox>，APK下载集合<https://github.com/youhunwl/TVAPP>，自用tvbox源分享，影视仓多仓源分享，tvbox相关资源记录：
 3) APK下载集合：<https://github.com/youhunwl/TVAPP>, 收集全网 Android TV电视盒子应用，涵盖影视、直播、K歌、工具、游戏等类型，整理优质APK资源，支持便捷下载与自动更新。提供安全验证、分类索引与兼容性标注，助力用户打造家庭影音娱乐中心！ ✅ TVBox/影视仓等影音壳接口配置源
 
-# 一、TVBox
+# 三、🚗🚗TVBox
 1. 全版本介绍：
 （1）https://zhuanlan.zhihu.com/p/608959171 
 （2）https://github.com/pymond/tvbox/blob/main/README.md
@@ -105,4 +82,33 @@ b. 欧歌/装歌单线多源，装B地址URL：<https://xn--e5x6c.v.nxog.top/api
 （2）https://raw.liucn.cc/box/dm.txt
 （3）https://www.juwanhezi.com/other/jsonlist （聚玩盒子，单仓、多仓、数据源平台）
 
-11. 几个魔改版的公众号：影视仓、码上放生、时光机、安卓开发哥等 
+# 四、🚗🚗Github加速代理网站
+1、镜像站与直链加速  
+• <https://github.hscsec.cn/>：将 github.com 替换为该域名后可浏览与下载，适合临时访问受限或加速浏览;  
+• <https://githubfast.com/>：同构镜像，用法同上，替换域名即可;  
+• <https://kkgithub.com/>：镜像站，适合浏览与直链下载;  
+• <https://521github.com/>：镜像站，适合浏览与直链下载;  
+• <https://gitclone.com/>：支持“加速 clone”，见下文用法;  
+ 使用要点：在原 GitHub 链接中将域名部分替换为上述镜像域名，路径保持不变；部分站点可能不支持登录或个别功能受限。限使用Git.  
+
+2、Git 克隆与下载加速  
+• GitClone 代理克隆：将仓库地址前缀替换为 <https://gitclone.com/github.com/> 后执行克隆；首次代理克隆后会异步缓存，后续速度更快，适合 git clone 场景。  
+  示例：<git clone https://gitclone.com/github.com/OWNER/REPO.git>  
+• GitHub 文件/Release 加速（压缩包直下）：使用 Cloudflare Workers 反代，  
+   示例服务：<https://gh.api.99988866.xyz>、<https://g.ioiox.com>。  
+   用法：将浏览器地址栏或下载工具中的github.com 链接替换为对应反代域名即可加速 Release/Archive/项目文件 下载。  
+
+3、Hosts 与静态资源加速
+• 动态更新 Hosts：  
+   <https://hosts.gitcdn.top/>（Fetch GitHub Hosts）    
+   <https://gitlab.com/ineo6/hosts/-/raw/master/hosts>    
+  将解析结果追加到本机 hosts 文件，可改善 github.com 与相关域名的连通性与速度。  
+• Raw 文件加速：将 <raw.githubusercontent.com> 替换为 <raw.staticdn.net>，可加速 Raw 文件访问（适合 Markdown 中的图片、文档等）。  
+• Jsdelivr CDN：适合加速 GitHub Releases 与 项目静态资源（如 JS/CSS/图片）；注意通常不提供 Release 附加的 .exe/.dmg 等二进制直链下载。   
+
+4、使用建议与注意事项  
+• 镜像与登录限制：部分镜像站仅支持浏览/下载，无法登录 GitHub 账号（如 <hub.fastgit.org>），涉及 PR/Issue/Gist 等操作请直接使用官方站点或 Git 操作。  
+• 安全性：优先使用 HTTPS；第三方镜像与反代服务可能随时变更或下线，谨慎提交账号口令与 Token，必要时使用一次性 Token 或短期凭证。  
+• 稳定性：若镜像访问异常，优先切换至其他镜像或改用 Hosts/代理/GitHub CLI 等方式；下载类需求可优先用 GitClone/Release 反代。  
+
+**完** **End** **🌹🍌🍎🍐🍍🌽🥒🥬🥦🍇火🐰🐶🐷🐒🐍🕷🐲🐂🐑**
