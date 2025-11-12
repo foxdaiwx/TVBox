@@ -30,7 +30,7 @@
 • Raw 文件加速：将 <raw.githubusercontent.com> 替换为 <raw.staticdn.net>，可加速 Raw 文件访问（适合 Markdown 中的图片、文档等）。  
 • Jsdelivr CDN：适合加速 GitHub Releases 与 项目静态资源（如 JS/CSS/图片）；注意通常不提供 Release 附加的 .exe/.dmg 等二进制直链下载。   
 
-4. 使用建议与注意事项  
+4、使用建议与注意事项  
 • 镜像与登录限制：部分镜像站仅支持浏览/下载，无法登录 GitHub 账号（如 <hub.fastgit.org>），涉及 PR/Issue/Gist 等操作请直接使用官方站点或 Git 操作。  
 • 安全性：优先使用 HTTPS；第三方镜像与反代服务可能随时变更或下线，谨慎提交账号口令与 Token，必要时使用一次性 Token 或短期凭证。  
 • 稳定性：若镜像访问异常，优先切换至其他镜像或改用 Hosts/代理/GitHub CLI 等方式；下载类需求可优先用 GitClone/Release 反代。  
