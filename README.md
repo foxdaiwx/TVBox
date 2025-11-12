@@ -18,14 +18,14 @@
 2、Git 克隆与下载加速  
 • GitClone 代理克隆：将仓库地址前缀替换为 <https://gitclone.com/github.com/> 后执行克隆；首次代理克隆后会异步缓存，后续速度更快，适合 git clone 场景。  
   示例：<git clone https://gitclone.com/github.com/OWNER/REPO.git>  
-• GitHub 文件/Release 加速（压缩包直下）：使用 Cloudflare Workers 反代，
-  - 示例服务：<https://gh.api.99988866.xyz>、<https://g.ioiox.com>。
-  - 用法：将浏览器地址栏或下载工具中的github.com 链接替换为对应反代域名即可加速 Release/Archive/项目文件 下载。  
+• GitHub 文件/Release 加速（压缩包直下）：使用 Cloudflare Workers 反代，  
+   示例服务：<https://gh.api.99988866.xyz>、<https://g.ioiox.com>。  
+   用法：将浏览器地址栏或下载工具中的github.com 链接替换为对应反代域名即可加速 Release/Archive/项目文件 下载。  
 
 3、Hosts 与静态资源加速
 • 动态更新 Hosts：  
-  - <https://hosts.gitcdn.top/>（Fetch GitHub Hosts）    
-  - <https://gitlab.com/ineo6/hosts/-/raw/master/hosts>    
+   <https://hosts.gitcdn.top/>（Fetch GitHub Hosts）    
+   <https://gitlab.com/ineo6/hosts/-/raw/master/hosts>    
   将解析结果追加到本机 hosts 文件，可改善 github.com 与相关域名的连通性与速度。  
 • Raw 文件加速：将 <raw.githubusercontent.com> 替换为 <raw.staticdn.net>，可加速 Raw 文件访问（适合 Markdown 中的图片、文档等）。  
 • Jsdelivr CDN：适合加速 GitHub Releases 与 项目静态资源（如 JS/CSS/图片）；注意通常不提供 Release 附加的 .exe/.dmg 等二进制直链下载。   
