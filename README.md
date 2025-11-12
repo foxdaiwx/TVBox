@@ -71,7 +71,7 @@ c. [欧歌单线，单线多源]<https://xn--e5x6c.v.nxog.top/apib?id=1>，注�
 
 ### 🌹单仓多线
 1). [欧歌单仓多线（狐狸）]<https://xn--e5x6c.v.nxog.top/apia?id=2>，（注意序号2,见前述）  
-2). [茄子库]<https://700sjro44343.vicp.fun/eggp/qzku/tv.json>；
+2). [茄子库]<https://700sjro44343.vicp.fun/eggp/qzku/tv.json>；  
 3). 摸鱼儿：http://我不是.摸鱼儿.com
 
 ### 🌹单线路（下翻，见多个大佬的列表及对应的链接URL）
