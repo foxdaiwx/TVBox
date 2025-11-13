@@ -43,27 +43,31 @@ c. [欧歌单线，单线多源]<https://xn--e5x6c.v.nxog.top/apib?id=1>，注�
 【序号与线路对应表】，常用id：1=饭太硬、4=肥猫、8=王二小、10=毒盒、17=巧技；  
 1=饭太硬，2=光哥云盘，3=盒子迷，4=肥猫，5=潇洒改版，6=PG，7=小米，8=王二小，9=花生，10=毒盒（直播源多），11=OK，12=多多改版，13=短剧，14=老虎，15=真心，16=莱妮丝，17=巧技，18=驸马，19=VOX，20=南风，21=杰哥学习，22=网络收集不分排名；  
 - **源原始地址** 序号为装歌API接口中接口源配置的ID号，单线路列表如下：
-1) 饭太硬：http://www.饭太硬.com/tv，备1：http://www.饭太硬.net/tv，备2：http://www.饭太硬.xyz/tv，备3：http://fty.xxooo.cf/tv，备4：http://fty.888484.xyz/tv，备5：http://fty.333232.xyz/tv，江苏郑州专用：https://gitee.com/xxoooo/fan/raw/master/in.bmp；
-2) 光哥云盘：
-3) 盒子迷：
-4) 肥猫：主接口：<http://肥猫.com>, 备用接口1: <http://hello.肥猫.com>, 备用2：<https://6296.kstore.vip/fm.gif>
-5) 潇洒改版：
-6) PG：
-7) 小米：
-8) 王二小放牛娃：http://tvbox.王二小放牛娃.top，
-9) 花生：
-10) 毒盒：
-11) OK：
-12) 多多改版：
-13) 短剧：
-14) 老虎：
-15) 真心：
-16) 莱妮丝：https://tv.菜妮丝.top
-17) 巧技：
-18) 驸马：
-19) VOX：
-20) 南风：
-21) 杰哥学习
+1) 饭太硬：<http://www.饭太硬.com/tv>，
+   - 备1：<http://www.饭太硬.net/tv>，   备2：<http://www.饭太硬.xyz/tv>，
+   - 备3：<http://fty.xxooo.cf/tv>，    备4：<http://fty.888484.xyz/tv>，
+   - 备5：<http://fty.333232.xyz/tv>，
+   - 江苏郑州专用：<https://gitee.com/xxoooo/fan/raw/master/in.bmp>；
+3) 光哥云盘：
+5) 盒子迷：
+6) 肥猫：主接口：<http://肥猫.com>, 备用接口1: <http://hello.肥猫.com>, 备用2：<https://6296.kstore.vip/fm.gif>
+7) 潇洒改版：
+8) PG：
+9) 小米：
+10) 王二小放牛娃：http://tvbox.王二小放牛娃.top，
+11) 花生：
+12) 毒盒：
+13) OK：
+14) 多多改版：
+15) 短剧：
+16) 老虎：
+17) 真心：
+18) 莱妮丝：https://tv.菜妮丝.top
+19) 巧技：
+20) 驸马：
+21) VOX：
+22) 南风：
+23) 杰哥学习
 
 🌹**多仓：**
 1) 影视仓多仓：http://tv.weidonglong.com/ysc5.json
